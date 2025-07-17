@@ -12,3 +12,4 @@ numpy
 pyjwt
 geopy
 webdriver-manager
+greenlet==3.0.3
